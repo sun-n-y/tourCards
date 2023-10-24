@@ -1,4 +1,4 @@
 const Tour = () => {
-  return <div>Tour</div>;
+  return <h2>Single Tour</h2>;
 };
 export default Tour;
